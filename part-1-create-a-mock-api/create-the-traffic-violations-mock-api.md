@@ -40,15 +40,12 @@ http://microcks.REPLACE_SUFFIX/dynarest/Driver%20Service/1.0/Driver/ \
 ```
 
 * Close the terminal and go back to the **Microcks **console.
-
 * Click on the **Resources** button.
-
 * You should see the three created **Driver** resources.
 
 ![](/assets/microcks-resources.png)
 
 * Close the window.
-
 * Right-click on the **Swagger 2.0 spec** link, click on "**copy link address"** and paste it in a text editor \(you will need it later\).
 
 
