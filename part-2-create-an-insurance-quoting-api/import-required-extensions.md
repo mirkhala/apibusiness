@@ -25,9 +25,18 @@
 * Click on the **Connections** tab.
 
 * Click on the **Create Connection** button.
+
 * Select ** DataShape Connector**.
 * Enter **DataShape** as **Connection Name**.
 * Click on the **Create** button.
 
 ![](/assets/ignite-CreateDataShapeConnection.png)
+
+* Click on the **Create Connection** button.
+
+* Select **Webhook**.
+* Enter **Webhook** as **Connection Name**.
+* Click on the **Create **button.
+
+
 
