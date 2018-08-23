@@ -115,6 +115,15 @@
 
 ![](/assets/ignite-Integration-RHDMDataMapping2.png)
 
-* 
+* Click on orange circle with a warning icon inside on the top of the **DataShape** connection.
+
+* Click on the **Add a data mapping step** link.
+
+![](/assets/ignite-Integration-DataShapeDataMapping1.png)
+
+* Perform the following mapping: 
+
+
+
 
 
