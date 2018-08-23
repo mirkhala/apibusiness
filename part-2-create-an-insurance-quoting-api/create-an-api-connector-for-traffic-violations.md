@@ -17,7 +17,7 @@
 
 | Parameter | Value |
 | :--- | :--- |
-| **Host** | http://microcks.microcks.svc.cluster.local:8080 |
+| **Host** | [http://microcks.microcks.svc.cluster.local:8080](http://microcks.microcks.svc.cluster.local:8080) |
 | **Base URL** | /dynarest/Driver/1.0/ |
 
 * Click on the **Create API Connector **button.
@@ -48,6 +48,22 @@
 ![](/assets/ignite-CreateAPIConnectionDriver.png)
 
 * Click on the **Next** button.
+* Enter **Driver API** as **Connection Name**.
+* Click on the **Create **button.
+
+![](/assets/ignite-CreateAPIConnectionDriver-2.png)
+
+* Click on the **Create Connection **button.
+* Select **Insurance Quoting**.
+* Enter the following values:
+  * **Username: **user
+  * **Password:** password
+* Click on the **Next** button
+
+![](/assets/ignite-CreateAPIConnectionRHDM2.png)
+
+* Enter **RHDM-InsuranceQuoting** as **Connection Name**.
+* Click on the **Create Connection** button.
 
 
 
