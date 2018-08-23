@@ -134,14 +134,26 @@
 
 ![](/assets/ignite-IntegrationAddRemoveHeaderStep.png)
 
-* Select **Remove Header.**
+* Select **Script**.
 
-* Enter **Content-Lenght **as **Header name**.
+* Select **Javascript** as the **Language**.
+
+* Enter the following code as **Script:**
+
+```
+var obj = JSON.parse(body);
+var fire = {"fire-all-rules": {}};
+obj.body.commands.push(fire);
+exchange.out.headers['Content-Type'] = 'application/json';
+exchange.out.headers['Accept'] = 'application/json';
+exchange.out.body =JSON.stringify(obj);
+```
 
 * Click on the **Done** button.
 
-* Add another step **before** the **RHDM-InsuranceQuoting **connection.
+* Click on the **Publish **button.
 
-* 
+* Enter "**InsuranceQuoting**" as the **Integration Name.**
+
 
 
