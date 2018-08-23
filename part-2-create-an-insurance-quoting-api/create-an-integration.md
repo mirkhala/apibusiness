@@ -121,9 +121,15 @@
 
 ![](/assets/ignite-Integration-DataShapeDataMapping1.png)
 
-* Perform the following mapping: 
+* Perform the following mapping:
+  | Source | Target |
+  | :--- | :--- |
+  | Response -&gt; result -&gt; execution-results -&gt; results -&gt; value -&gt; com.redhat.insurancequoting.Quote -&gt; price | QuoteResponse -&gt; price |
+
+* Click on the **Done **button.
 
 
 
+* 
 
 
