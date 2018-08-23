@@ -92,5 +92,17 @@
 | Contants -&gt; true | body -&gt; commands -&gt; insert -&gt; return-object |
 | Contants -&gt; 0 | body -&gt; commands -&gt; insert -&gt; object -&gt; com.redhat.insurancequoting.Quote -&gt; price |
 
+* It should look like this:
+
+![](/assets/ignite-integration-RHDMDataMapper.png)
+
+* Perform the following mappings:
+
+| Source | Target |
+| :--- | :--- |
+| QuoteRequest -&gt; driver -&gt; age | body -&gt; commands -&gt; insert -&gt; object -&gt; com.redhat.insurancequoting.Quote -&gt; driver -&gt; age |
+| QuoteRequest -&gt; driver -&gt; firstName | body -&gt; commands -&gt; insert -&gt; object -&gt; com.redhat.insurancequoting.Quote -&gt; driver -&gt; firstName |
+
+* 
 
 
