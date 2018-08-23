@@ -60,6 +60,18 @@
 
 ![](/assets/ignite-Integration-DriverAPI.png)
 
+* Add a connection after **Driver API**.
+
+* Select **RHDM-InsuranceQuoting.**
+
+* Select the only available action.
+
+* Click on orange circle with a warning icon inside on the top of the **RHDM-InsuranceQuoting** connection.
+
+* Click on the **Add a data mapping step** link.
+
+![](/assets/ignite-Integration-RHDMDataMapping.png)
+
 * 
 
 
