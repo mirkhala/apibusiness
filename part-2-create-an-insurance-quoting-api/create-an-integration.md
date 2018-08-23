@@ -102,6 +102,14 @@
 | :--- | :--- |
 | QuoteRequest -&gt; driver -&gt; age | body -&gt; commands -&gt; insert -&gt; object -&gt; com.redhat.insurancequoting.Quote -&gt; driver -&gt; age |
 | QuoteRequest -&gt; driver -&gt; firstName | body -&gt; commands -&gt; insert -&gt; object -&gt; com.redhat.insurancequoting.Quote -&gt; driver -&gt; firstName |
+| QuoteRequest -&gt; driver -&gt; lastName | body -&gt; commands -&gt; insert -&gt; object -&gt; com.redhat.insurancequoting.Quote -&gt; driver -&gt; lastName |
+| QuoteRequest -&gt; driver -&gt; validLicense | body -&gt; commands -&gt; insert -&gt; object -&gt; com.redhat.insurancequoting.Quote -&gt; driver -&gt; validLicense |
+| QuoteRequest -&gt; vehicle -&gt; licensePlate | body -&gt; commands -&gt; insert -&gt; object -&gt; com.redhat.insurancequoting.Quote -&gt; vehicle -&gt; licensePlate |
+| QuoteRequest -&gt; vehicle -&gt; maker | body -&gt; commands -&gt; insert -&gt; object -&gt; com.redhat.insurancequoting.Quote -&gt; vehicle -&gt; maker |
+| QuoteRequest -&gt; vehicle -&gt; mileage | body -&gt; commands -&gt; insert -&gt; object -&gt; com.redhat.insurancequoting.Quote -&gt; vehicle -&gt; mileage |
+| QuoteRequest -&gt; vehicle -&gt; model | body -&gt; commands -&gt; insert -&gt; object -&gt; com.redhat.insurancequoting.Quote -&gt; vehicle -&gt; model |
+| QuoteRequest -&gt; vehicle -&gt; modelYear | body -&gt; commands -&gt; insert -&gt; object -&gt; com.redhat.insurancequoting.Quote -&gt; vehicle -&gt; modelYear |
+| Response -> fines | body -&gt; commands -&gt; insert -&gt; object -&gt; com.redhat.insurancequoting.Quote -&gt; driver -&gt; fines |
 
 * 
 
