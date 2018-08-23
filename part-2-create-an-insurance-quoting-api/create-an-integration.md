@@ -24,6 +24,21 @@
 
 ![](/assets/ignite-DefineWebhookDatashape.png)
 
-* 
+* Select **DataShape** as the **Finish** **Connection**.
 
+* Select the only available action.
+
+* Select **JSON Instance** as **Type.**
+
+* Enter the following in the **Definition** field:
+
+```
+{ "price": 123 }
+```
+
+* Enter **QuoteResponse** as **Data Type Name**.
+
+* Click on the **Done **button**.**
+
+![](/assets/ignite-CreateDataShapeDefinitio.png)
 
