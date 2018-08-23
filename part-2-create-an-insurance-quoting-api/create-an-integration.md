@@ -130,6 +130,18 @@
 
 ![](/assets/ignite-IntegrationDataShapeDataMapping3.png)
 
+* Add a step **before** the **RHDM-InsuranceQuoting** connection.
+
+![](/assets/ignite-IntegrationAddRemoveHeaderStep.png)
+
+* Select **Remove Header.**
+
+* Enter **Content-Lenght **as **Header name**.
+
+* Click on the **Done** button.
+
+* Add another step **before** the **RHDM-InsuranceQuoting **connection.
+
 * 
 
 
