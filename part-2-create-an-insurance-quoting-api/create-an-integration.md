@@ -72,6 +72,24 @@
 
 ![](/assets/ignite-Integration-RHDMDataMapping.png)
 
-* 
+* Create the following constants:
+
+| Value | Type |
+| :--- | :--- |
+| quoting | String |
+| quote1 | String |
+| 0 | Integer |
+| true | Boolean |
+| ksession | String |
+
+* Perform the following mappings:
+
+| Source | Target |
+| :--- | :--- |
+| Contants -&gt; quoting | parameters -&gt; id |
+| Contants -&gt; ksession | body -&gt; lookup |
+| Contants -&gt; quote1 | body -&gt; commands -&gt; insert -&gt; out-identifier |
+| Contants -&gt; true | body -&gt; commands -&gt; insert -&gt; return-object |
+
 
 
