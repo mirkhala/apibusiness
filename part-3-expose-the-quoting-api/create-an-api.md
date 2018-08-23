@@ -19,12 +19,19 @@
 * Click on the **Create Application Plan** button.
 * Click on the **Publish** link.
 
-![](/assets/3scale-publishAppPlan.png) 
+![](/assets/3scale-publishAppPlan.png)
 
 * Click on the **Developers** tab.
 * Click on the **Developer** account.
 * Click on the **1 Application** breadcrumb
 * Click on **Create Application.**
+
+![](/assets/3scale-createApp.png)
+
+* Make sure **Application Plan **is set to **QuotePlan**.
+* Enter **QuoteApp** as **Name.**
+* Enter **Quoting Application** as **Description.**
+* Click on the **Create Application** button.
 
 
 
