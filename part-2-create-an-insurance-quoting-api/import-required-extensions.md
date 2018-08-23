@@ -18,16 +18,16 @@
   * syndesis-connector-datashape-1.0.0.jar
   * syndesis-extension-script-1.0.0.jar
   * syndesis-extension-manage-headers-1.0.0.jar
+  * syndesis-connector-webhook-1.0.0.jar
 
   ![](/assets/ignite-ImportedExtensions.png)
 
 * Click on the **Connections** tab.
+
 * Click on the **Create Connection** button.
 * Select ** DataShape Connector**.
 * Enter **DataShape** as **Connection Name**.
 * Click on the **Create** button.
 
 ![](/assets/ignite-CreateDataShapeConnection.png)
-
-
 
