@@ -21,5 +21,13 @@
 
   ![](/assets/ignite-ImportedExtensions.png)
 
+* Click on the **Connections** tab.
+* Click on the **Create Connection** button.
+* Select ** DataShape Connector**.
+* Enter **DataShape** as **Connection Name**.
+* Click on the **Create** button.
+
+![](/assets/ignite-CreateDataShapeConnection.png)
+
 
 
