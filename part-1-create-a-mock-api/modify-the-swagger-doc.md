@@ -4,13 +4,13 @@
 ![](/assets/apicurio-register.png)
 
 * Complete the form with the following values:  
-  \| Parameter \| Value \|  
-  \| :--- \| :--- \|  
-  \| **First Name** \| Username \|  
-  \| **Last Name** \| Lastname \|  
-  \| **Email** \| [user@mail.com](mailto:user@mail.com) \|  
-  \| **Password** \| password \|  
-  \| **Confirm Password** \| password
+  | Parameter | Value |  
+  | :--- | :--- |  
+  | **First Name** | Username |  
+  | **Last Name** | Lastname |  
+  | **Email** | [user@mail.com](mailto:user@mail.com) \|  
+  | **Password** | password |  
+  | **Confirm Password** | password
 
 * 
 * Click on the **Register **button.
