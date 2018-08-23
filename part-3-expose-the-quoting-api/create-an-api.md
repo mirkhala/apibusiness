@@ -1,6 +1,16 @@
-## Design an API Document
+## Create the API
 
-* Go to 
+
+* Go to **3scale admin console** https://3scale-admin.3scale.REPLACE_SUFFIX.
+* Login as admin/admin.
+* Click on the **APIs** tab.
+* Click on **Create Service**.
+* Enter the following values:
+   * **Name**: Quoting
+   * **System name**: quoting
+* Select **OpenID Connect** as Authentication mechanism.
+* Click on the **Create Service** button.
+
 
 
 
