@@ -1,6 +1,6 @@
 ## Import Extensions
 
-* Go to http://syndesis-fuse.REPLACE\_SUFFIX
+* Go to [http://syndesis-fuse.REPLACE\_SUFFIX](http://syndesis-fuse.REPLACE_SUFFIX)
 * Login as admin/r3dh4t1!
 * Click on the **Customizations** tab.
 * click on the **Extensions** tab.
@@ -14,12 +14,12 @@
 ![](/assets/ignite-ImportExtension.png)
 
 * Repeat these steps for the following extensions:
+
   * syndesis-connector-datashape-1.0.0.jar
   * syndesis-extension-script-1.0.0.jar
   * syndesis-extension-manage-headers-1.0.0.jar
 
   ![](/assets/ignite-ImportedExtensions.png)
 
-* 
 
 
