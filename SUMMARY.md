@@ -10,7 +10,7 @@
   * [Create the API Connectors](part-2-create-an-insurance-quoting-api/create-an-api-connector-for-traffic-violations.md)
   * [Create an Integration](part-2-create-an-insurance-quoting-api/create-an-integration.md)
 * [Part 3 - Publish the Quoting API](part-3-expose-the-quoting-api.md)
-  * Setup RH-SSO
+  * [Setup RH-SSO](part-3-expose-the-quoting-api/setup-rh-sso.md)
   * Create an API
 * [Part 4 - Consume the Quoting API](part-4-consume-the-quoting-api.md)
   * Deploy the Web App
