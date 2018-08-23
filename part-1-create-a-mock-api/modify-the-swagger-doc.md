@@ -4,15 +4,14 @@
 ![](/assets/apicurio-register.png)
 
 * Complete the form with the following values:  
-  | Parameter | Value |  
-  | :--- | :--- |  
-  | **First Name** | Username |  
-  | **Last Name** | Lastname |  
-  | **Email** | [user@mail.com](mailto:user@mail.com) |  
-  | **Password** | password |  
+  | Parameter | Value |
+  | :--- | :--- |
+  | **First Name** | Username |
+  | **Last Name** | Lastname |
+  | **Email** | [user@mail.com](mailto:user@mail.com) |
+  | **Password** | password |
   | **Confirm Password** | password |
-  
-  
+
 * Click on the **Register **button.
 
 ![](/assets/apicurio-register2.png)
@@ -63,6 +62,13 @@
 
 ![](/assets/apicurio-DriverPropsResponse.png)
 
-* 
+* Click on **Driver** in the breadcrumb.
+
+* Click on the three dots in the **Driver **API, and select **Download \(JSON\)**.
+
+![](/assets/apicurio-SaveJSON.png)
+
+* Save the file to your disk.
+
 
 
