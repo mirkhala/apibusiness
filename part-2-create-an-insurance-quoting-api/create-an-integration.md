@@ -42,3 +42,24 @@
 
 ![](/assets/ignite-CreateDataShapeDefinitio.png)
 
+* Hover over the **plus** sign and click on** Add a Step**.
+* Select ** Set Body JS.**
+* Enter the following as **Body:**
+
+```
+'{"parameters":{"id": "' + JSON.parse(exchange.in.getBody(java.lang.String.class)).driver.id + '"}}'
+```
+
+* Click on the **Done **button.
+
+![](/assets/ignite-Integration-SetBodyJS.png)
+
+* Click on the **Add a connection** after the **Set Body JS** step.
+* Select **Driver API**.
+* Select **Retrieve a Driver resource.**
+
+![](/assets/ignite-Integration-DriverAPI.png)
+
+* 
+
+
