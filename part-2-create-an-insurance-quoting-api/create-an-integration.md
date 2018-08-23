@@ -90,6 +90,7 @@
 | Contants -&gt; ksession | body -&gt; lookup |
 | Contants -&gt; quote1 | body -&gt; commands -&gt; insert -&gt; out-identifier |
 | Contants -&gt; true | body -&gt; commands -&gt; insert -&gt; return-object |
+| Contants -&gt; 0 | body -&gt; commands -&gt; insert -&gt; object -&gt; com.redhat.insurancequoting.Quote -&gt; price |
 
 
 
