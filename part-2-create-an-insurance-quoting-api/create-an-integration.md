@@ -155,5 +155,7 @@ exchange.out.body =JSON.stringify(obj);
 
 * Enter "**InsuranceQuoting**" as the **Integration Name.**
 
+* Wait for the integration to be deployed \(~5min\).
+
 
 
