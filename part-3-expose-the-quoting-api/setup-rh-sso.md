@@ -1,6 +1,6 @@
 ## Setup RH-SSO
 
-* Go to https://sso-rh-sso.REPLACE\_SUFFX/auth
+* Go to [https://sso-rh-sso.REPLACE\_SUFFX/auth](https://sso-rh-sso.REPLACE_SUFFX/auth)
 * Login as admin/password
 * Make sure the **3scaleRealm **realm is selected.
 * Click on the **Login **tab.
@@ -38,6 +38,19 @@
 * Select** realm-management **in the **Client Roles** drop-down.
 * Select **manage-clients** in the **Available Roles** list.
 * Click on the **Add selected &gt;&gt;** button.
+
+![](/assets/sso-setup-configure3scaleClient.png)
+
+* Click on the **Credentials** tab.
+
+* Take note of the **Secret**, you will need it later.
+
+![](/assets/sso-setup-3scaleclient-secret.png)
+
+* Click on **Users** \(under **Manage**\).
+
+* Click on the **Add user** button.
+
 * 
 
 
