@@ -8,11 +8,11 @@
   | :--- | :--- |  
   | **First Name** | Username |  
   | **Last Name** | Lastname |  
-  | **Email** | [user@mail.com](mailto:user@mail.com) \|  
+  | **Email** | [user@mail.com](mailto:user@mail.com) |  
   | **Password** | password |  
-  | **Confirm Password** | password
-
-* 
+  | **Confirm Password** | password |
+  
+  
 * Click on the **Register **button.
 
 ![](/assets/apicurio-register2.png)
