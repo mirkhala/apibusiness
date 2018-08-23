@@ -8,7 +8,6 @@
 * [Part 2 - Create an Insurance Quoting API](part-2-create-an-insurance-quoting-api.md)
   * [Import required Extensions](part-2-create-an-insurance-quoting-api/import-required-extensions.md)
   * [Create the API Connectors](part-2-create-an-insurance-quoting-api/create-an-api-connector-for-traffic-violations.md)
-  * Add required extentions
   * Create an Integration
 * [Part 3 - Publish the Quoting API](part-3-expose-the-quoting-api.md)
   * Setup RH-SSO
