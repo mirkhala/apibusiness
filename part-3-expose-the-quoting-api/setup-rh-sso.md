@@ -51,6 +51,25 @@
 
 * Click on the **Add user** button.
 
-* 
+![](/assets/sso-setup-3scale-adduser.png)
+
+* Enter **user1** as the **Username.**
+
+* Click on the **Save** button.
+
+![](/assets/sso-setup-adduser.png)
+
+* Click on the **Credentials** tab.
+
+* Enter "password" as **New** **Password** and **Password** **Confirmation**.
+
+* Set **Temporary** to **OFF**.
+
+* Click on the **Reset** **Password** button.
+
+  ![](/assets/sso-setup-resetpwd.png)
+
+* Accept the warning.
+
 
 
