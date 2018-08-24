@@ -91,5 +91,17 @@
 
 * Click on the **Create Service **button.
 
+* Go back to the RH-SSO console \([https://sso-rh-sso.REPLACE\_SUFFX/auth](https://sso-rh-sso.REPLACE_SUFFX/auth)\)
+
+* Login as admin/password
+* Make sure the **3scaleRealm **realm is selected.
+* Click on the **Clients** tab.
+* Click on the **Client ID** generated in 3scale.
+* Scroll down to **Web Origins**.
+* Enter an "\*" .
+* Click on the **Save** button.
+
+![](/assets/3scale-rhsso-client-weborigin.png)
+
 
 
