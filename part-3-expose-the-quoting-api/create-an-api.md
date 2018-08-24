@@ -72,6 +72,12 @@
 
 ![](/assets/3scale-createApp2.png)
 
+* Click on **Change** next to **Redirect URL**, in the **API Credentials** section.
+* Enter "\*".
+* Click **OK**.
+
+![](/assets/3scale-app-redirecturl.png)
+
 * Click on the **APIs** tab.
 * Click on the **ActiveDocs **tab.
 * Click on **Creae a new spec.**
