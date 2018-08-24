@@ -12,7 +12,6 @@
 * [Part 3 - Publish the Quoting API](part-3-expose-the-quoting-api.md)
   * [Setup RH-SSO](part-3-expose-the-quoting-api/setup-rh-sso.md)
   * [Create the API](part-3-expose-the-quoting-api/create-an-api.md)
-  * [Design an API Document](part-3-expose-the-quoting-api/design-an-api-document.md)
 * [Part 4 - Consume the Quoting API](part-4-consume-the-quoting-api.md)
   * Deploy the Web App
 
