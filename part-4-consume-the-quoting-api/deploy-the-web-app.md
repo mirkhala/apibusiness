@@ -26,8 +26,9 @@
 | **Quotes API URL** | [https://3scale.3scale.REPLACE\_SUFFIX/swagger/spec/quotes.json](https://3scale.3scale.REPLACE_SUFFIX/swagger/spec/quotes.json) |
 | **Quotes API Client Secret** | &lt;Paste Client ID from 3scale&gt; |
 | **Quotes API ClientID** | &lt;Paste Client Secret from 3scale&gt; |
-| **RH Single Sign-On URL** | http://sso-unsecured.REPLACE\_SUFFIX/auth |
+| **RH Single Sign-On URL** | [http://sso-unsecured.REPLACE\_SUFFIX/auth](http://sso-unsecured.REPLACE_SUFFIX/auth) |
 
-* 
+* Click on the **Create** button.
+
 
 
