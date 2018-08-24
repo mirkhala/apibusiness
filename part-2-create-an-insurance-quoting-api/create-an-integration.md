@@ -157,5 +157,18 @@ exchange.out.body =JSON.stringify(obj);
 
 * Wait for the integration to be deployed \(~5min\).
 
+* Open a terminal
+
+* Execute the following commands:
+
+```
+oc login https://master.REPLACE_SUFFIX:8443
+oc project ignite
+oc expose dc i-insurancequoting --port 8080
+oc expose service i-insurancequoting
+```
+
+
+
 
 
