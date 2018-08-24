@@ -32,6 +32,7 @@
 * Click on the **pencil icon** next to the mapping rule.
 
 * Set the **Verb** to **POST.**
+
 * Set the **Pattern **to **/webhook/quoteAPI**
 
 ![](/assets/3scale-quoteAPI.png)
@@ -77,9 +78,12 @@
 * Enter the following values:
   * **Name: **Quotes
   * **System name:** quotes
+  * **Publish: **checked
 * Paste the contents of the **Labs\QuotingAPI.json** file.
 
-* Correct the **host** property to match your environment.
+* Correct the **host** property to match your environment: quote-3scale-apicast-production.3scale.REPLACE\_SUFFIX:443
+
+* Click on the **Create Service **button.
 
 
 
