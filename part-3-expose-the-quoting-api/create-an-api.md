@@ -30,6 +30,7 @@
 * Expand the **Mapping Rules** section.
 
 * Click on the **pencil icon** next to the mapping rule.
+
 * Set the **Verb** to **POST.**
 * Set the **Pattern **to **/webhook/quoteAPI**
 
@@ -72,6 +73,13 @@
 
 * Click on the **APIs** tab.
 * Click on the **ActiveDocs **tab.
-* 
+* Click on **Creae a new spec.**
+* Enter the following values:
+  * **Name: **Quotes
+  * **System name:** quotes
+* Paste the contents of the **Labs\QuotingAPI.json** file.
+
+* Correct the **host** property to match your environment.
+
 
 
