@@ -10,22 +10,23 @@
 * Select **Create Project.**
 * Enter "**quoting-app**" as the **Project Name**
 * Enter "**Quoting WebApp" **as the** Project Display Name.**
-* Open a new browser tab and go to 3scale admin console: https://3scale-admin.3scale.REPLACE\_SUFFX
+* Open a new browser tab and go to 3scale admin console: [https://3scale-admin.3scale.REPLACE\_SUFFX](https://3scale-admin.3scale.REPLACE_SUFFX)
 * Login as admin/admin
 * Click on the **Applications** tab.
 * Click on the **QuoteApp** application.
 * You will copy the ClientID and ClientSecret from this screen.
 
 * Go back to the Openshift admin console.
+
 * Enter the following paramteres:
 
 | Parameter | Value |
 | :--- | :--- |
 | **Application Hostname** | quoting.REPLACE\_SUFFIX |
 | **Quotes API URL** | [https://3scale.3scale.REPLACE\_SUFFIX/swagger/spec/quotes.json](https://3scale.3scale.REPLACE_SUFFIX/swagger/spec/quotes.json) |
-| **Quotes API Client Secret** |  |
-| **Quotes API ClientID** |  |
-| **RH Single Sign-On URL** |  |
+| **Quotes API Client Secret** | &lt;Paste Client ID from 3scale&gt; |
+| **Quotes API ClientID** | &lt;Paste Client Secret from 3scale&gt; |
+| **RH Single Sign-On URL** | http://sso-unsecured.REPLACE\_SUFFIX/auth |
 
 * 
 
