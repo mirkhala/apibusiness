@@ -14,7 +14,5 @@
   * [Create the API](part-3-expose-the-quoting-api/create-an-api.md)
 * [Part 4 - Consume the Quoting API](part-4-consume-the-quoting-api.md)
   * [Deploy the Web App](part-4-consume-the-quoting-api/deploy-the-web-app.md)
-  * Access the Web App
-
-
+  * [Test the Web App](part-4-consume-the-quoting-api/access-the-web-app.md)
 
